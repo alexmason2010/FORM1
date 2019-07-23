@@ -101,10 +101,9 @@ input[type="submit"] { /* This is the input box inside the Search Parameter that
 #searchVal { /* #searchVal is is the input box inside the Search Parameter where a user will type key words for querying information. In other words its the box that has "search for report..." written inside of it */
   padding: 6px; /* This controls the size of the input field box */
 }
-
 /* Body, Buttons, and the Search Parameter ends here */
 
-/* Footer*//* -The Footer has been commented out because Myarrow.com could have a pre-built footer.... if not the below section is a footer that could be used for the web application
+/* Footer*//* -The Footer has been commented out because ??????.com could have a pre-built footer.... if not the below section is a footer that could be used for the web application
   footer {
   background-color: black;
   padding-top: 5px;
